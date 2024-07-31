@@ -4,11 +4,7 @@ This project is a responsive website for an adventure and travel brand, designed
 
 ## Features
 * The website is fully responsive, designed to work seamlessly on desktops, tablets, and mobile devices. Media queries and a flexible grid layout ensure optimal viewing on any screen size.
-Navigation:
-
 * A dynamic navigation bar with links to Home, Tours, Explore, About, and Contacts sections. The menu adapts to mobile devices with a toggle button for easy access.
-Visual Appeal:
-
 * Custom graphics and a cohesive color scheme create an attractive visual experience. Hover effects and interactive elements enhance user engagement.
 
 ## Sections:
