@@ -3,8 +3,6 @@
 This project is a responsive website for an adventure and travel brand, designed to provide an engaging and visually appealing experience across different devices. The site features sections for upcoming events, tours, and explorations, with a focus on aesthetics and user interactivity.
 
 ## Features
-Responsive Design:
-
 * The website is fully responsive, designed to work seamlessly on desktops, tablets, and mobile devices. Media queries and a flexible grid layout ensure optimal viewing on any screen size.
 Navigation:
 
@@ -20,8 +18,7 @@ Visual Appeal:
 * Tours: Showcases upcoming tours and destinations, complete with an image gallery.
 
 ## Technologies Used
-HTML5: For the structure and content of the website.
-CSS3: For styling, layout, and responsive design.
-JavaScript: For interactive elements and menu functionality.
-Google Fonts: For custom typography.
+* HTML5: For the structure and content of the website.
+* CSS3: For styling, layout, and responsive design.
+
 
