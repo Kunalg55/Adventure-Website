@@ -17,4 +17,7 @@ This project is a responsive website for an adventure and travel brand, designed
 * HTML5: For the structure and content of the website.
 * CSS3: For styling, layout, and responsive design.
 
+![image](https://github.com/user-attachments/assets/cbdf6a8f-7d4c-4b23-a5c5-04ce807e3079)
+
+
 
